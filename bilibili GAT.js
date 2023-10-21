@@ -4,7 +4,7 @@ Only Surge4.0
 By NobyDa
 
 [Script]
-BliBli港澳台 = type=http-response,pattern=https:\/\/api\.bilibili\.com\/pgc\/view\/app\/season\?access_key,requires-body=1,max-size=0,control-api=1,timeout=5,script-path=bilibili港澳台.js
+BliBli港澳台 = type=http-response,pattern=https:\/\/api\.bilibili\.com\/pgc\/view\/app\/season\?access_key,requires-body=1,max-size=0,control-api=1,timeout=5,script-path=https://github.com/dalsonbear/script/blob/1f2c873782317fdc3926e9a5efb460e9d2b68af8/bilibili%20GAT.js
 
 [MITM]
 hostname = api.bilibili.com
